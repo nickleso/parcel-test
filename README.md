@@ -1,5 +1,7 @@
 # Parcel boilerplate
 
+[maket](https://www.figma.com/file/uR8VizuN2EvhaNt5cZk7dv/Eero?node-id=1%3A2)
+
 ## Скрытые файлы
 
 Включите отображение скрытых файлов и папок в проводнике своей операционной системы, иначе вы не
